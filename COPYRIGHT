@@ -1,7 +1,10 @@
 Copyright (c) 2022, Mitja Steinbacher (mitja.steinbacher@gmail.com)
 All rights reserved.
 
-The code accompanies the paper: Steinbacher M, Steinbacher M, Knoppe, C (2022)
+The code builds upon the repository https://github.com/pixlifai/opiform.git.
+(based on paper: Steinbacher M, Steinbacher M (2017) Opinion Formation with Imperfect Agents as an Evolutionary Process.)
+
+The code accompanies the paper: Steinbacher M, Steinbacher M, Knoppe, C (2022). 
 Opinion Dynamics in the Standard Model of Bounded Confidence with a Preference Matching: 
 How the Desire to Meet Facilitates Opinion Exchange. Submitted for publication XX(XX):XX-XX.
 
